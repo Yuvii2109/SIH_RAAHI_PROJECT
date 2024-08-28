@@ -1,0 +1,22 @@
+.welcome {
+    background-image: url('https://img.freepik.com/free-photo/one-person-hiking-conquering-mountain-peaks-exploring-majestic-landscapes-generated-by-artificial-intelligence_188544-85020.jpg?t=st=1724667279~exp=1724670879~hmac=4c6478f086faf06014aa9eed0912c8cfdeb747f8309080ab7af6c82df534c392&w=1060');
+    background-size: cover;
+    background-position: center;
+    height: 110vh;
+    width: 100%;
+}
+.card{
+    margin-bottom: 2rem;
+}
+.card:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px; ;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+.Listings{
+    background-color: rgb(253, 241, 227);
+}
