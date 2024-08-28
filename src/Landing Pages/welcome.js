@@ -11,7 +11,7 @@ function WelcomePage() {
             </div>
             <div className='Listings container-fluid'>
                 <h1 className='pt-5 mb-5' style={{textAlign: "center"}}>
-                    <i>Where do you wish to visit in India???</i>
+                    <i>Where do you wish to visit in India?</i>
                 </h1>
                 <div className='row ms-5 me-2 mt-5 pb-5 p-5' style={{display: "flex", paddingRight: "0"}}>
                     <div className='col-lg-3 col-md-5 col-sm-12' class="card" style={{width: "18rem", border:"1px solid grey", borderRadius: "0.4rem", padding: "0"}}>
