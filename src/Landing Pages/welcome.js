@@ -10,7 +10,10 @@ function WelcomePage() {
                 <Navbar/>
                 <div className="welcome-content row" style={{width: "100%"}}>
                     <br/> <br/>
-                    <div className='col-lg-5 offset-7 mt-5'>
+                    <div className='col-md-6 col-lg-7'>
+
+                    </div>
+                    <div className='col-md-6 col-lg-5 mt-5'>
                         <h1>
                             Weaving your dreams <br/>
                             Into <i>unforgettable</i> <br/>
