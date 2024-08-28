@@ -6,8 +6,8 @@ function Navbar() {
             <nav class="navbar navbar-expand-md bg-body-primary" style={{height: "7rem", backgroundColor: "rgba(0,0,0,0.2)"}}>
                 <div class="container-fluid">
                     <a class="navbar-brand" style={{width: "55%"}} to="/">
-                        <img src='media/images/RaahiLogo.png' alt='Olympiad specialist Logo' 
-                        style={{width: "20%", cursor: "pointer", marginLeft: "2rem"}}/>
+                        <img src='media/images/Khush2.jpg' alt='Olympiad specialist Logo' 
+                        style={{width: "16%", cursor: "pointer", marginLeft: "2rem", borderRadius: "50%", border:"2px solid black"}}/>
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>

@@ -8,6 +8,16 @@ function WelcomePage() {
         <>
             <div className="welcome">
                 <Navbar/>
+                <div className="welcome-content row" style={{width: "100%"}}>
+                    <br/> <br/>
+                    <div className='col-lg-5 offset-7 mt-5'>
+                        <h1>
+                            Weaving your dreams <br/>
+                            Into <i>unforgettable</i> <br/>
+                            <i><b>Adventures...</b></i>
+                        </h1>
+                    </div>
+                </div>
             </div>
             <div className='Listings container-fluid'>
                 <h1 className='pt-5 mb-5' style={{textAlign: "center"}}>

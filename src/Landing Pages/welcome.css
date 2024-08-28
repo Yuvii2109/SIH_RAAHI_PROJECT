@@ -20,3 +20,7 @@ a:hover{
 .Listings{
     background-color: rgb(253, 241, 227);
 }
+.welcome-content{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
