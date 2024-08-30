@@ -2,10 +2,12 @@ import React from 'react';
 import "./welcome.css";
 import Navbar from './navbar';
 import Footer from './footer';
+import DelhiPage from './Home/delhi';
 
 function WelcomePage() {
       return (
         <>
+            <DelhiPage/>
             <div className="welcome">
                 <Navbar/>
                 <div className="welcome-content row" style={{width: "100%"}}>

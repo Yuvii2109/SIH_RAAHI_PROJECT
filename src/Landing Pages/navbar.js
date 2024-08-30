@@ -14,20 +14,20 @@ function Navbar() {
                     </button>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav" style={{marginRight: "auto"}}>
-                            <li class="nav-item" className='ms-4'>
+                            <li class="nav-item" className='ms-4 navlink'>
                                 <a class="nav-link active" style={{color: "whitesmoke", fontWeight: "700", textDecoration: "underline", cursor: "pointer"}} aria-current="page" to="/signup">Home</a>
                             </li>
-                            <li class="nav-item" className='ms-4'>
-                                <a class="nav-link" style={{color: "whitesmoke", fontWeight: "700", textDecoration: "underline", cursor: "pointer"}}  to="/about">Packages</a>
+                            <li class="nav-item" className='ms-4 navlink'>
+                                <a class="nav-link" style={{color: "whitesmoke", fontWeight: "700", textDecoration: "underline", cursor: "pointer"}}  to="/about">Women Special</a>
                             </li>
-                            <li class="nav-item" className='ms-4'>
-                                <a class="nav-link" style={{color: "whitesmoke", fontWeight: "700", textDecoration: "underline", cursor: "pointer"}} to="/products">About</a>
+                            <li class="nav-item" className='ms-4 navlink'>
+                                <a class="nav-link" style={{color: "whitesmoke", fontWeight: "700", textDecoration: "underline", cursor: "pointer"}} to="/products">Helpline</a>
                             </li>
-                            <li class="nav-item" className='ms-4'>
-                                <a class="nav-link" style={{color: "whitesmoke", fontWeight: "700", textDecoration: "underline", cursor: "pointer"}} to="/pricing">Helpline</a>
+                            <li class="nav-item" className='ms-4 navlink'>
+                                <a class="nav-link" style={{color: "whitesmoke", fontWeight: "700", textDecoration: "underline", cursor: "pointer"}} to="/pricing">Itinerary</a>
                             </li>
-                            <li class="nav-item" className='ms-4'>
-                                <a class="nav-link" style={{color: "whitesmoke", fontWeight: "700", textDecoration: "underline", cursor: "pointer"}} to="/support">Itinerary</a>
+                            <li class="nav-item" className='ms-4 navlink'>
+                                <a class="nav-link" style={{color: "whitesmoke", fontWeight: "700", textDecoration: "underline", cursor: "pointer"}} to="/support">About</a>
                             </li>
                         </ul>
                     </div>

@@ -1,0 +1,18 @@
+.Delhi{
+    background-image: url('https://images.pexels.com/photos/789750/pexels-photo-789750.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+    background-size: cover;
+    background-position: center;
+    height: 110vh;
+    width: 100%;
+}
+.tagline{
+    position: absolute !important;
+    top: 50% !important;
+    left: 26%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: azure;
+    background-color: rgba(0,0,0,0.4);
+}
+.delhi-content{
+    text-align: center;
+}
