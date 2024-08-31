@@ -6,9 +6,6 @@
     width: 100%;
 }
 .tagline{
-    position: absolute !important;
-    top: 20% !important;
-    left: 26%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: azure;
     background-color: rgba(0,0,0,0.4);
